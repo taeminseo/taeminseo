@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![taeminseo stats](https://github-readme-stats.vercel.app/api?username=taeminseo&count_private=true)
 <div align = center>
   
   ## studying
