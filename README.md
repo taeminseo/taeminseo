@@ -10,6 +10,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-00205B?style=for-the-badge&logo=Eclipse&logoColor=white)
+![MySQL}(https://img.shields.io/badge/MySQL-00205B?style=for-the-badge&logo=MySQL&logoColor=white)
   
 ![taeminseo GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=radical)
 
