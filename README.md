@@ -1,5 +1,3 @@
-# SEO TAE MIN 
-
 <h3> Pleased to meet you ! I'm taemin. </h3>
 
 <h2> tech stack 📚 </h2>
