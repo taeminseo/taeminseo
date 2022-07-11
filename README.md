@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![taeminseo stats](https://github-readme-stats.vercel.app/api?username=taeminseo&count_private=radical)
+![taeminseo GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=radical)
 <div align = center>
   
   ## studying
