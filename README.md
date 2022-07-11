@@ -1,8 +1,7 @@
 # SEO TAE MIN
 
 <h1> Pleased to meet you ! I'm taemin. 
-<div>
-   
+
 <h2> tech stack 📚 </h2>
   
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=black)
@@ -18,8 +17,6 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 
   
-</div>
-
 ![taeminseo GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=radical)
 
 
