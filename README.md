@@ -1,6 +1,6 @@
 <h3> Pleased to meet you ! I'm taemin. </h3>
 
-<p align ="center"> Tech Stack 📚 </p> 
+<h2> Tech Stack 📚 </h2>
   
 ![Java](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
