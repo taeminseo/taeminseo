@@ -1,13 +1,14 @@
-<div align="center">
+
 <h1> SEO TAEMIN </h1>
-![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=taeminseo)](https://solved.ac/taeminseo)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=taeminseo)](https://solved.ac/taeminseo)
 
 <h2> Tech Stack 📚 </h2>
   
 ![Java](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&logo=Java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-</div> 
+
 
 <div align="center">
 <h2> Github Status </h2>
