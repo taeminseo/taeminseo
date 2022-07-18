@@ -1,5 +1,5 @@
 <div align =center>
-<h3> Hello ! </h3>
+<h1> Hello! </h1>
 
 <h2> Tech Stack 📚 </h2>
   
@@ -8,10 +8,11 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   
   
-</div>
 
-<div align=center>
+
+
 <h2> Status </h2>
-![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+
 
 </div>
