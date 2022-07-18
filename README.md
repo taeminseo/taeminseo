@@ -7,7 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   
-<h2> Github status </h2>
 ![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&hide=stars,contribs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo&layout=compact)](https://github.com/taeminseo/github-readme-stats)
 
