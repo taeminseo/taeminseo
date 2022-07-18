@@ -10,6 +10,6 @@
   
 <h2> Status </h2>
 ![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=dark)  
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo)](https://github.com/taeminseo/github-readme-stats) 
 </div>
 
