@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1> Hello! </h1>
 
 <h2> Tech Stack 📚 </h2>
@@ -10,3 +10,4 @@
 
 ![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&hide=stars,contribs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo&layout=compact)](https://github.com/taeminseo/github-readme-stats)
+</div>
