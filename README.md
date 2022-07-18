@@ -9,7 +9,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
   
 <h2> Status </h2>
-![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&theme=dark)  
+![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&show_icons=true&hide=contribs,prs&theme=dark)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo)](https://github.com/taeminseo/github-readme-stats) 
 </div>
 
