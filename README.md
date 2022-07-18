@@ -1,4 +1,4 @@
-<h3> Pleased to meet you ! I'm taemin. </h3>
+<h3> Pleased to meet you ! </h3>
 
 <h2> Tech Stack 📚 </h2>
   
