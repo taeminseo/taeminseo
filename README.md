@@ -1,8 +1,6 @@
 <div align ="center">
 <h1> SEO TAEMIN 👦 </h1>
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=taeminseo)](https://solved.ac/taeminseo)
 
 <h2> Tech Stack 📚 </h2>
   
