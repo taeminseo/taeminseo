@@ -11,11 +11,3 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 </div>
-
-<div align="center">
-<h2> Github Status  💻 </h2>
-
-![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&hide=stars,contribs&show_icons=true&theme=defalut) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo&layout=compact)](https://github.com/taeminseo/github-readme-stats)
-1
-</div>
