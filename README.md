@@ -17,5 +17,5 @@
 
 ![taeminseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeminseo&hide=stars,contribs&show_icons=true&theme=defalut) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeminseo&layout=compact)](https://github.com/taeminseo/github-readme-stats)
-
+1
 </div>
